@@ -7,5 +7,5 @@ After download the source code, you can install the requirements: **pip install 
 # Some Notes about the app
 The folder ui_files contains the files .ui generate by Qt Designer, in this case those files are compiled to python code in the views folder.
 
-# Screen Shots
+# Screenshots
 <img src="https://drive.google.com/uc?export=view&id=1crprfakz4-LE0HLCWZXiJtfYY8Cf98AJ" width="500px">
